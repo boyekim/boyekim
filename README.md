@@ -80,5 +80,5 @@ Here are some ideas to get you started:
 <br> <a href="https://solved.ac/profile/newboye">김수민의 solved.ac</a>
 
 ## 📔 Resume 📔
-김수민 포트폴리오 입니다.
+김수민의 포트폴리오 입니다.<br>
 <a href="https://drive.google.com/file/d/1j-b-zIjIRiwAkeVKyyDqZCSyU48nkPNv/view?usp=sharing">Resume</a>

@@ -35,7 +35,6 @@ Here are some ideas to get you started:
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"> 
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
     <!-- Others -->
@@ -78,4 +77,8 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newboye)](https://solved.ac/newboye/)
 <br>
 꾸준한 알고리즘 문제풀이를 통한 플레티넘 티어입니다.
+<br> <a href="https://solved.ac/profile/newboye">김수민의 solved.ac</a>
 
+## 📔 Resume 📔
+김수민 포트폴리오 입니다.
+<a href="https://drive.google.com/file/d/1j-b-zIjIRiwAkeVKyyDqZCSyU48nkPNv/view?usp=sharing">Resume</a>

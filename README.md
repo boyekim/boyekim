@@ -78,7 +78,8 @@ Here are some ideas to get you started:
 <br>
 꾸준한 알고리즘 문제풀이를 통한 플레티넘 티어입니다.
 <br> <a href="https://solved.ac/profile/newboye">김수민의 solved.ac</a>
-
+<br>
+<br>
 ## 📔 Resume 📔
 김수민의 포트폴리오 입니다.<br>
 <a href="https://drive.google.com/file/d/1j-b-zIjIRiwAkeVKyyDqZCSyU48nkPNv/view?usp=sharing">Resume</a>

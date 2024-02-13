@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newboye)](https://solved.ac/newboye/)
 <br>
 꾸준한 알고리즘 문제풀이를 통한 플레티넘 티어입니다.
-<br> <a href="https://solved.ac/profile/newboye">김수민의 solved.ac</a>
 <br>
 <br>
 ## 📔 Resume 📔

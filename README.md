@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 안녕하세요 백엔드 개발자를 지망하는 김수민 입니다.
 
-## 🛠️ Tech Stack 🛠️
+## 🛠️ Tech Skills 🛠️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>

@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FCBFBD&height=300&section=header&text=Hi%20there%20👋&fontSize=90&animation=twinkling" />
 
 <!--
 **boyekim/boyekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-안녕하세요 백엔드 개발자를 지망하는 김수민 입니다.
 
 ## 🛠️ Tech Skills 🛠️
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -44,21 +42,6 @@ Here are some ideas to get you started:
     </div>
 </div><br>
 
-## 🌱 Used at Least Once 🌱
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-    </div>
-    <!-- Others -->
-    <p><strong>Others</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-    </div>
-</div><br>
 
 ## 💻 Used IDE 💻
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -68,17 +51,11 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
         <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     </div>
 </div><br>
 
 ## 👩🏻‍💻 Algorithm 👩🏻‍💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=newboye)](https://solved.ac/newboye/)
 <br>
-꾸준한 알고리즘 문제풀이를 통한 플레티넘 티어입니다.
 <br>
 <br>
-## 📔 Resume 📔
-김수민의 포트폴리오 입니다.<br>
-<a href="https://drive.google.com/file/d/1j-b-zIjIRiwAkeVKyyDqZCSyU48nkPNv/view?usp=sharing">Resume</a>
